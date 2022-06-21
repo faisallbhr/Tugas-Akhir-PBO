@@ -1,0 +1,79 @@
+D:\KULIAH\semester 2\pbo\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.exe
+D:\KULIAH\semester 2\pbo\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.deps.json
+D:\KULIAH\semester 2\pbo\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.runtimeconfig.json
+D:\KULIAH\semester 2\pbo\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.pdb
+D:\KULIAH\semester 2\pbo\PapyKostFinal\bin\Debug\net6.0-windows\Npgsql.dll
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.AssemblyReference.cache
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Kost.resources
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.GenerateResource.cache
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.AssemblyInfoInputs.cache
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.AssemblyInfo.cs
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.CoreCompileInputs.cache
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.CopyComplete
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\refint\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.pdb
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.genruntimeconfig.cache
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\ref\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Owner.resources
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.OwnerSet.resources
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Register.resources
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Transaksi.resources
+D:\KULIAH\semester 2\pbo\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Form1.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.exe
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.deps.json
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.runtimeconfig.json
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.dll
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.pdb
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\bin\Debug\net6.0-windows\Npgsql.dll
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.AssemblyReference.cache
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Form1.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Kost.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Loading.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Owner.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.OwnerSet.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Properties.Resources.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Register.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Transaksi.resources
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.GenerateResource.cache
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.AssemblyInfoInputs.cache
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.AssemblyInfo.cs
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.CoreCompileInputs.cache
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.CopyComplete
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.dll
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\refint\PapyKostFinal.dll
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.pdb
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.genruntimeconfig.cache
+D:\KULIAH\TUGAS\PBO\PapiKos\share\PapyKostFinal\obj\Debug\net6.0-windows\ref\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.exe
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.deps.json
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.runtimeconfig.json
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\bin\Debug\net6.0-windows\PapyKostFinal.pdb
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\bin\Debug\net6.0-windows\Npgsql.dll
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.AssemblyReference.cache
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Form1.resources
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Kost.resources
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Loading.resources
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Owner.resources
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.OwnerSet.resources
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Properties.Resources.resources
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Register.resources
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.Transaksi.resources
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.GenerateResource.cache
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.AssemblyInfoInputs.cache
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.AssemblyInfo.cs
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.CoreCompileInputs.cache
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.csproj.CopyComplete
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\refint\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.pdb
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.genruntimeconfig.cache
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\ref\PapyKostFinal.dll
+D:\KULIAH\semester 2\pbo\Desain\Desain\PapyKostFinal\obj\Debug\net6.0-windows\PapyKostFinal.RiwayatTransaksi.resources

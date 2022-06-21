@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Guna.UI2.WinForms/2.0.3.2": {
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {
+            "assemblyVersion": "2.0.3.2",
+            "fileVersion": "2.0.3.2"
+          }
+        }
+      },
+      "Npgsql/6.0.4": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Npgsql.dll": {
+            "assemblyVersion": "6.0.4.0",
+            "fileVersion": "6.0.4.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guna.UI2.WinForms/2.0.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eemzZE4IrzNrC1Ln6KYVH0r8S8bYWUW0tu7VNXzR6d/WMu0sgTZmrp86r/vIuL1aoPESLMQnycpNbtPv2cjeQA==",
+      "path": "guna.ui2.winforms/2.0.3.2",
+      "hashPath": "guna.ui2.winforms.2.0.3.2.nupkg.sha512"
+    },
+    "Npgsql/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SJMlOmFHr32oOzVXeHmarGaBKkhi0wHVN/rzuu2tUSJ4Qx2AkHCpr9R/DhLWwDiklqgzFU++9wkFyGJxbx/zzg==",
+      "path": "npgsql/6.0.4",
+      "hashPath": "npgsql.6.0.4.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    }
+  }
+}

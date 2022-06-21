@@ -1,0 +1,44 @@
+create table transaksi(
+	id_transaksi serial primary key,
+	id_customer serial,
+	id_kost serial,
+	jumlah_kamar int,
+	lama_sewa int,
+	tgl timestamp,
+	constraint fk_Customer foreign key (id_customer) references customers(id_customer),
+	constraint fk_Kost foreign key (id_kost) references kost(id_kost)
+)
+select * from transaksi
+
+create table owners(
+	id_owner serial primary key,
+	nama varchar(50),
+	username varchar(25),
+	pw varchar(25),
+	nohp varchar(50)
+)
+select * from owners
+insert into owners(nama, username, pw, nohp)
+values ('owner2', '2', '2', '082123456789')
+
+create table customers(
+	id_customer serial primary key,
+	nama varchar(50),
+	username varchar(25) unique,
+	pw varchar(25),
+	noHp varchar(25),
+	alamat varchar(50),
+	kelamin varchar(15)
+)
+
+select * from kost
+create table kost(
+	id_kost serial primary key,
+	id_owner serial,
+	nama varchar(50) unique,
+	harga int,
+	lokasi varchar(50),
+	ketersediaan int, 
+	keterangan varchar(15),
+	constraint fk_Owner foreign key (id_owner) references owners(id_owner)
+)

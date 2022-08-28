@@ -1,2 +1,2 @@
 # Tugas-Akhir-PBO
-CRUD winform
+CRUD winform (pgAdmin)
